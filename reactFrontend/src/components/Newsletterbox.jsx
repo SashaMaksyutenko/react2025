@@ -1,5 +1,5 @@
 import React from 'react'
-function Newsletterbox () {
+function NewsletterBox () {
   const onSubmitHandler = event => {
     event.preventDefault()
   }
@@ -32,4 +32,4 @@ function Newsletterbox () {
     </div>
   )
 }
-export default Newsletterbox
+export default NewsletterBox
