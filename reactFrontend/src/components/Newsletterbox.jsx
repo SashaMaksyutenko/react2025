@@ -32,4 +32,5 @@ function NewsletterBox () {
     </div>
   )
 }
+
 export default NewsletterBox
