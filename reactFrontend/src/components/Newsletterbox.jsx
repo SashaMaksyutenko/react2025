@@ -1,3 +1,4 @@
+
 import React from 'react'
 
 const NewsletterBox = () => {
@@ -19,5 +20,5 @@ const NewsletterBox = () => {
     </div>
   )
 }
-
 export default NewsletterBox
+
